@@ -3,7 +3,7 @@ python-dotenv
 langchain-community
 ipykernel
 pypdf
-bs4
+beautifulsoup4
 arxiv
 pymupdf
 wikipedia
@@ -19,6 +19,4 @@ langchain_groq
 langserve
 fastapi
 pydantic>=2.0
-duckduck-go-search
-langchain_groq
-
+duckduckgo-search
